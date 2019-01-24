@@ -8,9 +8,7 @@ On-premises Live Streaming Service Apps
 We aim to combine with PeerTube. (Which is P2P etc ..)
 
 ---
-
-#####Auther
-
+##### Auther
 - Winding
 - mebius∞
 ---
