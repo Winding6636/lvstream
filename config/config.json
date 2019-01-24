@@ -1,0 +1,18 @@
+{
+  "settings" : {
+    "version" : 1,
+    "app": {
+      "apptitle": "LIVE APPLICATION",
+      "title": "LiVEStream | lv.mbius.io",
+      "domain": "hoge.example",
+      "root": "/",
+      "": ""
+    },
+    "mode": {
+      "test": true,
+      "maintenance": false
+    },
+    "detabase": {
+    }
+  }
+}
